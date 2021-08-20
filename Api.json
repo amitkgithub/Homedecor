@@ -1,0 +1,10 @@
+const  Aapi=[{
+    id:1,
+    image:"images.jpg",
+    name: "maggi",
+    category : "lunch",
+    price:25,
+    descritption: "lorem"
+
+}];
+export default Aapi;
